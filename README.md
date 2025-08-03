@@ -2,7 +2,7 @@
 
 A stunning landing page for ADmyBRAND AI Suite - an AI-powered marketing tool, featuring a modern design system and reusable component library.
 
-🔗 **Live Demo**: [Coming Soon](#) <!-- Add Vercel deployment link here -->
+🔗 **Live Demo**: [Visit Site](https://ad-my-brand-task-b.vercel.app/)
 
 ## Overview
 
