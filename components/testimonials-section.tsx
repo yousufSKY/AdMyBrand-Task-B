@@ -99,6 +99,7 @@ export function TestimonialsSection() {
                     width={36}
                     height={36}
                     className="rounded-full object-cover border-2 border-purple-400 mr-3"
+                    unoptimized={true}
                   />
                   <div>
                     <div className="font-semibold text-white">
